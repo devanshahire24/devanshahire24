@@ -17,19 +17,19 @@
 
 <br/><br/>
 
-<a href="https://portfolio.dev">
+<a href="https://devanshahire24.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/devanshahire03/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:devanshahire245@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/devanshahire24">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -128,11 +128,11 @@ Built a comprehensive smart waste management ecosystem capable of monitoring bin
 </details>
 
 <details>
-<summary><b>AI Resume Analyzer</b></summary>
+<summary><b>Clinics Website</b></summary>
 
 ### Project Overview
 
-Intelligent resume screening platform leveraging NLP and machine learning techniques to evaluate candidate profiles.
+Great websites for clinic staff
 
 | Metric | Details |
 |----------|----------|
@@ -145,12 +145,12 @@ Intelligent resume screening platform leveraging NLP and machine learning techni
 
 ### Professional Description
 
-Developed an AI-powered recruitment assistant capable of extracting, analyzing, and ranking candidate resumes based on job requirements.
+Developed an AI-powered clinical website to manage patients and their medicine descriptions 
 
 </details>
 
 <details>
-<summary><b>Full Stack E-Commerce Platform</b></summary>
+<summary><b>Chatbot</b></summary>
 
 ### Project Overview
 
@@ -301,11 +301,11 @@ Delivered custom software solutions for startups, local businesses, and digital 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshahire24&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshahire24&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshahire24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -335,7 +335,7 @@ Delivered custom software solutions for startups, local businesses, and digital 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/devanshahire24/devanshahire24/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -374,19 +374,19 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:devanshahire245@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/devanshahire03">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/devanshahire24">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.dev">
+<a href="https://devanshahire24.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
