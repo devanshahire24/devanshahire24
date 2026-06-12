@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Devansh%20Ahire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/devanshahire03/">
+<a href="https://www.linkedin.com/in/devanshahire03/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -35,10 +35,8 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1&label=Followers)
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=A855F7&label=Stars)
-
+![](https://komarev.com/ghpvc/?username=devanshahire24&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/devanshahire24?style=for-the-badge&color=6366F1&label=Followers)
 </div>
 
 ---
@@ -315,7 +313,7 @@ Delivered custom software solutions for startups, local businesses, and digital 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devanshahire24&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -325,7 +323,7 @@ Delivered custom software solutions for startups, local businesses, and digital 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshahire24&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
